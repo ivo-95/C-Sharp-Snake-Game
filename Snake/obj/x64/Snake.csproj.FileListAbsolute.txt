@@ -1,0 +1,12 @@
+C:\C#\Snake\Snake\bin\Release\Snake.exe.config
+C:\C#\Snake\Snake\bin\x64\Snake.exe.config
+C:\C#\Snake\Snake\bin\x64\Snake.exe
+C:\C#\Snake\Snake\bin\x64\Snake.pdb
+C:\C#\Snake\Snake\obj\x64\Snake.about.resources
+C:\C#\Snake\Snake\obj\x64\Snake.Form1.resources
+C:\C#\Snake\Snake\obj\x64\Snake.Properties.Resources.resources
+C:\C#\Snake\Snake\obj\x64\Snake.Resource1.resources
+C:\C#\Snake\Snake\obj\x64\Snake.csproj.GenerateResource.Cache
+C:\C#\Snake\Snake\obj\x64\Snake.exe
+C:\C#\Snake\Snake\obj\x64\Snake.pdb
+C:\C#\Snake\Snake\obj\x64\Snake.csprojResolveAssemblyReference.cache

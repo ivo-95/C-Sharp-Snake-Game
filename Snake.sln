@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{B293B4A0-4F2C-4A73-AA59-50EE08E58570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		x64|Any CPU = x64|Any CPU
+		x86|Any CPU = x86|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B293B4A0-4F2C-4A73-AA59-50EE08E58570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B293B4A0-4F2C-4A73-AA59-50EE08E58570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B293B4A0-4F2C-4A73-AA59-50EE08E58570}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{B293B4A0-4F2C-4A73-AA59-50EE08E58570}.x64|Any CPU.Build.0 = x64|Any CPU
+		{B293B4A0-4F2C-4A73-AA59-50EE08E58570}.x86|Any CPU.ActiveCfg = x86|Any CPU
+		{B293B4A0-4F2C-4A73-AA59-50EE08E58570}.x86|Any CPU.Build.0 = x86|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

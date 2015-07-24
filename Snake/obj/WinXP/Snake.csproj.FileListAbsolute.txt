@@ -1,0 +1,9 @@
+C:\C#\Snake\Snake\bin\WinXP\Snake.exe.config
+C:\C#\Snake\Snake\bin\WinXP\Snake.exe
+C:\C#\Snake\Snake\obj\WinXP\Snake.csprojResolveAssemblyReference.cache
+C:\C#\Snake\Snake\obj\WinXP\Snake.about.resources
+C:\C#\Snake\Snake\obj\WinXP\Snake.Form1.resources
+C:\C#\Snake\Snake\obj\WinXP\Snake.Properties.Resources.resources
+C:\C#\Snake\Snake\obj\WinXP\Snake.Resource1.resources
+C:\C#\Snake\Snake\obj\WinXP\Snake.csproj.GenerateResource.Cache
+C:\C#\Snake\Snake\obj\WinXP\Snake.exe
